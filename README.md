@@ -14,5 +14,5 @@
 |Data Set|Link|
 |-----|-----|
 |Pittsburgh Fire Incidents|https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh|
-||
-||
+| - | - |
+| - | - |
