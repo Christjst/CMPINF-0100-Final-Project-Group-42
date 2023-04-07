@@ -6,8 +6,8 @@
 | Member | Email |
 | ------ | ----- |
 |Bruce Weis|BAW106@pitt.edu|
-|Roja Kafle|rok85@pitt.edu|
-|Yikai Zhang|yiz187@pitt.edu|
+|Roja Kafle|ROK85@pitt.edu|
+|Yikai Zhang|YIZ187@pitt.edu|
 
 ## Data Sets Used:
 
