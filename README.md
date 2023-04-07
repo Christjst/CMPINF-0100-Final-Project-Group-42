@@ -8,3 +8,11 @@
 |Bruce Weis|BAW106@pitt.edu|
 |Roja Kafle|rok85@pitt.edu|
 |Yikai Zhang|yiz187@pitt.edu|
+
+## Data Sets Used:
+
+|Data Set|Link|
+|-----|-----|
+|Pittsburgh Fire Incidents|https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh|
+||
+||
