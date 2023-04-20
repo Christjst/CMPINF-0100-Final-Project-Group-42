@@ -15,8 +15,7 @@
 |-----|-----|
 |Pittsburgh Fire Incidents|https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh|
 | - | - |
-| - | - |
-
+|Pittsburgh Police Arrest Data|https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f|
 ## Overview:
 
 This repository contains datasets, notebooks, and reports used to determine the "best" neighborhood in the city of Pittsburgh
